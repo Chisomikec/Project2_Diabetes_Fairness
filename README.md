@@ -110,7 +110,7 @@ Below is the visual comparison of Accuracy, Precision, and Recall for each group
 |    Non-Hispanic Other    |    0.73   | 0.33      | 0.83     | 1230        |
 
 For detailed observations and interpretation, see the Conclusion section in the notebook.
-Additional group-wise plots for all models are available in the output/ directory.
+Additional group-wise plots for all models are available in the `output/` directory.
 
 ---
 
