@@ -115,6 +115,7 @@ Additional group-wise plots for all models are available in the `output/` direct
 ---
 
 ##  Folder Structure
+```
 Project2_Diabetes_Fairness/
 │
 ├── data/ # Raw & processed datasets
@@ -122,7 +123,7 @@ Project2_Diabetes_Fairness/
 ├── artifacts/ # Saved final model
 ├── outputs/ # Evaluation metrics & fairness plots
 └── README.md # Project documentation
-
+```
 
 ---
 
