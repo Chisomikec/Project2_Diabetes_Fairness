@@ -118,8 +118,8 @@ Additional group-wise plots for all models are available in the `output/` direct
 ```
 Project2_Diabetes_Fairness/
 │
-├── data/ # Raw & processed datasets
-├── # Jupyter notebook with full pipeline
+├── data/ 
+├── predict_diabetes.ipynb
 ├── artifacts/ # Saved final model
 ├── outputs/ # Evaluation metrics & fairness plots
 └── README.md # Project documentation
