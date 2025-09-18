@@ -80,7 +80,7 @@ The aim was not just technical — it was about **building trust in AI systems f
 
 ### Key Observations
 - Disparities in recall and precision were present **across all models**.
-- **Black Only** group often had the **highest recall** but **lowest accuracy**.
+- The **Black Only** group showed high recall relative to other groups, but this came with **lower accuracy**.
 - **Random Forest** showed the smallest recall disparity but still had uneven precision.
 - Precision and recall trade-offs were visible: increasing recall often lowered precision.
 
